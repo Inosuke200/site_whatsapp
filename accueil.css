@@ -116,8 +116,11 @@ header nav li{
     
     list-style: none;
 }
+#logo-zone ul li{
+    margin: 14px;
+}
 #logo-zone li a{
-    
+   
     color: #1cb39b;
     text-decoration: none;
     vertical-align: middle;  
